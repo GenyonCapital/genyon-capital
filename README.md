@@ -1,3 +1,1 @@
-# GENYON CAPITAL
-
-App React com alertas e gráfico de investimentos em tempo real.
+Apagar conteúdo de README_SUPREMACY.txt
