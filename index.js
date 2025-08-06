@@ -1,1 +1,8 @@
-// Código React da App GENYON CAPITAL SUPREMACY com ligação a APIs reais (exemplo placeholder)
+
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
