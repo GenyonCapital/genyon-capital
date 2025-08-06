@@ -1,1 +1,3 @@
-Apagar conteúdo de README_SUPREMACY.txt
+# GENYON CAPITAL
+
+App React com alertas e gráfico de investimentos em tempo real.
