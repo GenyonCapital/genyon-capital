@@ -1,1 +1,1 @@
-Delete this file
+Apaga todo o conteúdo
